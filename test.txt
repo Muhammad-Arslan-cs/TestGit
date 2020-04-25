@@ -1,1 +1,6 @@
 this is my first text file to test git
+
+git add test.txt
+git status
+git commit -m "first commit" test.txt
+git push -u origin master
